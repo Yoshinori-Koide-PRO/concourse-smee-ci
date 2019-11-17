@@ -1,6 +1,6 @@
 {
   "name": "concourse-smee-ci",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "smee.io → concource-ci の Webhook relay",
   "main": "index.js",
   "dependencies": {
