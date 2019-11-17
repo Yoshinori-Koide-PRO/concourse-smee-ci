@@ -1,0 +1,27 @@
+{
+  "name": "concourse-smee-ci",
+  "version": "1.0.0",
+  "description": "smee.io → concource-ci の Webhook relay",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "phin": "^3.4.1",
+    "smee-client": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yoshinori-Koide-PRO/concourse-smee-ci.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yoshinori-Koide-PRO/concourse-smee-ci/issues"
+  },
+  "homepage": "https://github.com/Yoshinori-Koide-PRO/concourse-smee-ci#readme"
+}
